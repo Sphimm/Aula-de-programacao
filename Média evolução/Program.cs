@@ -1,9 +1,10 @@
-﻿int nota1 = 6;
+﻿/* int nota1 = 6;
 int nota2 = 3;
 
 float media = (nota1 + nota2) / 2;
 
 Console.WriteLine("Média:" + media); 
+*/
 
 /* Console.WriteLine("Informe a primeira nota:");
 string strNota1 = Console.ReadLine();

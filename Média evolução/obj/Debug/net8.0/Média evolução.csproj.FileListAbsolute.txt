@@ -12,3 +12,18 @@ C:\Users\User\source\repos\Média evolução\obj\Debug\net8.0\refint\Média evol
 C:\Users\User\source\repos\Média evolução\obj\Debug\net8.0\Média evolução.pdb
 C:\Users\User\source\repos\Média evolução\obj\Debug\net8.0\Média evolução.genruntimeconfig.cache
 C:\Users\User\source\repos\Média evolução\obj\Debug\net8.0\ref\Média evolução.dll
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Média evolução\bin\Debug\net8.0\Média evolução.exe
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Média evolução\bin\Debug\net8.0\Média evolução.deps.json
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Média evolução\bin\Debug\net8.0\Média evolução.runtimeconfig.json
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Média evolução\bin\Debug\net8.0\Média evolução.dll
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Média evolução\bin\Debug\net8.0\Média evolução.pdb
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Média evolução\obj\Debug\net8.0\Média evolução.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Média evolução\obj\Debug\net8.0\Média evolução.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Média evolução\obj\Debug\net8.0\Média evolução.AssemblyInfo.cs
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Média evolução\obj\Debug\net8.0\Média evolução.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Média evolução\obj\Debug\net8.0\Média evolução.sourcelink.json
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Média evolução\obj\Debug\net8.0\Média evolução.dll
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Média evolução\obj\Debug\net8.0\refint\Média evolução.dll
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Média evolução\obj\Debug\net8.0\Média evolução.pdb
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Média evolução\obj\Debug\net8.0\Média evolução.genruntimeconfig.cache
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Média evolução\obj\Debug\net8.0\ref\Média evolução.dll
