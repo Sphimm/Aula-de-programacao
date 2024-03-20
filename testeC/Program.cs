@@ -1,3 +1,0 @@
-﻿//teste A
-
-//teste B
