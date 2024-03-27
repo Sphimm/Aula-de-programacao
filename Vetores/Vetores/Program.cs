@@ -102,7 +102,7 @@ for (int p = 0; p < comodos; p++)
 }
 */
 
-Console.WriteLine("Insira 10 nomes e 2 notas desses Estudantes:");
+/* Console.WriteLine("Insira 10 nomes e 2 notas desses Estudantes:");
 
 Console.WriteLine();
 
@@ -151,3 +151,5 @@ for (int i = 0;i < alunos; i++)
 {
     Console.WriteLine($"O Estudante {i + 1} Nome: {nomes[i]}, teve média: {medias[i]} e portanto foi: {final}");
 }
+
+ */

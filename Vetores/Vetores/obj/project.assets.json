@@ -8,24 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\murilo.sseraphim\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\murilo.sseraphim\\source\\repos\\Vetores\\Vetores\\Vetores.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive - SENAC - SP\\Documentos\\GitHub\\Aula-de-programacao\\Vetores\\Vetores\\Vetores.csproj",
       "projectName": "Vetores",
-      "projectPath": "C:\\Users\\murilo.sseraphim\\source\\repos\\Vetores\\Vetores\\Vetores.csproj",
-      "packagesPath": "C:\\Users\\murilo.sseraphim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\murilo.sseraphim\\source\\repos\\Vetores\\Vetores\\obj\\",
+      "projectPath": "C:\\Users\\User\\OneDrive - SENAC - SP\\Documentos\\GitHub\\Aula-de-programacao\\Vetores\\Vetores\\Vetores.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\OneDrive - SENAC - SP\\Documentos\\GitHub\\Aula-de-programacao\\Vetores\\Vetores\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\murilo.sseraphim\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -46,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -67,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
