@@ -1,0 +1,14 @@
+C:\Users\murilo.sseraphim\source\repos\Pilhas (Stack)\bin\Debug\net8.0\Pilhas (Stack).exe
+C:\Users\murilo.sseraphim\source\repos\Pilhas (Stack)\bin\Debug\net8.0\Pilhas (Stack).deps.json
+C:\Users\murilo.sseraphim\source\repos\Pilhas (Stack)\bin\Debug\net8.0\Pilhas (Stack).runtimeconfig.json
+C:\Users\murilo.sseraphim\source\repos\Pilhas (Stack)\bin\Debug\net8.0\Pilhas (Stack).dll
+C:\Users\murilo.sseraphim\source\repos\Pilhas (Stack)\bin\Debug\net8.0\Pilhas (Stack).pdb
+C:\Users\murilo.sseraphim\source\repos\Pilhas (Stack)\obj\Debug\net8.0\Pilhas (Stack).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murilo.sseraphim\source\repos\Pilhas (Stack)\obj\Debug\net8.0\Pilhas (Stack).AssemblyInfoInputs.cache
+C:\Users\murilo.sseraphim\source\repos\Pilhas (Stack)\obj\Debug\net8.0\Pilhas (Stack).AssemblyInfo.cs
+C:\Users\murilo.sseraphim\source\repos\Pilhas (Stack)\obj\Debug\net8.0\Pilhas (Stack).csproj.CoreCompileInputs.cache
+C:\Users\murilo.sseraphim\source\repos\Pilhas (Stack)\obj\Debug\net8.0\Pilhas (Stack).dll
+C:\Users\murilo.sseraphim\source\repos\Pilhas (Stack)\obj\Debug\net8.0\refint\Pilhas (Stack).dll
+C:\Users\murilo.sseraphim\source\repos\Pilhas (Stack)\obj\Debug\net8.0\Pilhas (Stack).pdb
+C:\Users\murilo.sseraphim\source\repos\Pilhas (Stack)\obj\Debug\net8.0\Pilhas (Stack).genruntimeconfig.cache
+C:\Users\murilo.sseraphim\source\repos\Pilhas (Stack)\obj\Debug\net8.0\ref\Pilhas (Stack).dll
