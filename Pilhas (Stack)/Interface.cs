@@ -10,13 +10,6 @@ namespace Pilhas__Stack_
     {
         public void Inicio()
         {
-            for (int i = 0; i < 50; i++)
-            {
-                Console.Write("-");
-            }
-
-            Console.WriteLine();
-
             Console.WriteLine("Selecione um dos itens abaixo:");
 
             Console.WriteLine();
@@ -29,6 +22,22 @@ namespace Pilhas__Stack_
             Console.WriteLine("6 – Encerrar");
 
             Console.WriteLine();
+        }
+
+        public void Divisao_Longa()
+        {
+            for (int i = 0; i < 40; i++)
+            {
+                Console.Write("-");
+            }
+
+            Console.WriteLine();
+            Console.WriteLine();
+        }      
+
+        public void Insira_Aqui()
+        {            
+            Console.Write("Insira aqui:  ");          
         }
     }
 }

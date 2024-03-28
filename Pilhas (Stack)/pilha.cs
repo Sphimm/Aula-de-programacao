@@ -23,6 +23,7 @@ namespace Pilhas__Stack_
             pilha.Push(add);
             Console.WriteLine();
             Console.WriteLine($"O item: '{add}' foi adicionado");
+            Console.WriteLine();
         }
 
         public void Pop_Stack()

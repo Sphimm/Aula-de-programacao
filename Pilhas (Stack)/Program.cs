@@ -9,10 +9,15 @@ int opcao;
 
 while (verf)
 {
+    UI.Divisao_Longa();
     UI.Inicio();
+    UI.Divisao_Longa();
+
+    UI.Insira_Aqui();
+
     opcao = int.Parse(Console.ReadLine());
     Console.WriteLine();
-    
+
     if (opcao == 1)
     {
         Pilha.Criar_Stack();
@@ -41,7 +46,7 @@ while (verf)
         Pilha.View_Stack();
     } //Ver Todos os Itens
 
-    else 
+    else
     {
         verf = false;
         for (int i = 0; i < 100; i++)
@@ -49,6 +54,4 @@ while (verf)
             Console.Write("=");
         }
     } //Encerrar
-
-    Console.WriteLine();
 }
