@@ -44,7 +44,15 @@ namespace Pilhas__Stack_
             string[] lista = new string[count];
 
             Console.WriteLine("Os itens da pilha são (Do topo para a base):");
+            Console.WriteLine();
 
+            foreach( string item in pilha )
+            {
+                Console.WriteLine(item);
+                Console.WriteLine();
+            }
+
+            /* Também funciona, mas é menos eficiente 
             for (int i = 0; i < lista.Length; i++)
             {
                 Console.WriteLine(pilha.Peek());
@@ -55,7 +63,7 @@ namespace Pilhas__Stack_
             for (int num = lista.Length - 1; num >= 0; num--)
             {
                 pilha.Push(lista[num]);
-            }
+            } */
         }
     }
 }

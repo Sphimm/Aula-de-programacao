@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pilhas (Stack)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ca0433b057113ab1ee47e3a2bed92a0a0af9c2f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5836afe58360185c5041c45141fc341ba09952f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pilhas (Stack)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pilhas (Stack)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
