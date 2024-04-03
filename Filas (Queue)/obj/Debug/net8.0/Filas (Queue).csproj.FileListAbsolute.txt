@@ -1,0 +1,14 @@
+C:\Users\murilo.sseraphim\source\repos\Filas (Queue)\bin\Debug\net8.0\Filas (Queue).exe
+C:\Users\murilo.sseraphim\source\repos\Filas (Queue)\bin\Debug\net8.0\Filas (Queue).deps.json
+C:\Users\murilo.sseraphim\source\repos\Filas (Queue)\bin\Debug\net8.0\Filas (Queue).runtimeconfig.json
+C:\Users\murilo.sseraphim\source\repos\Filas (Queue)\bin\Debug\net8.0\Filas (Queue).dll
+C:\Users\murilo.sseraphim\source\repos\Filas (Queue)\bin\Debug\net8.0\Filas (Queue).pdb
+C:\Users\murilo.sseraphim\source\repos\Filas (Queue)\obj\Debug\net8.0\Filas (Queue).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murilo.sseraphim\source\repos\Filas (Queue)\obj\Debug\net8.0\Filas (Queue).AssemblyInfoInputs.cache
+C:\Users\murilo.sseraphim\source\repos\Filas (Queue)\obj\Debug\net8.0\Filas (Queue).AssemblyInfo.cs
+C:\Users\murilo.sseraphim\source\repos\Filas (Queue)\obj\Debug\net8.0\Filas (Queue).csproj.CoreCompileInputs.cache
+C:\Users\murilo.sseraphim\source\repos\Filas (Queue)\obj\Debug\net8.0\Filas (Queue).dll
+C:\Users\murilo.sseraphim\source\repos\Filas (Queue)\obj\Debug\net8.0\refint\Filas (Queue).dll
+C:\Users\murilo.sseraphim\source\repos\Filas (Queue)\obj\Debug\net8.0\Filas (Queue).pdb
+C:\Users\murilo.sseraphim\source\repos\Filas (Queue)\obj\Debug\net8.0\Filas (Queue).genruntimeconfig.cache
+C:\Users\murilo.sseraphim\source\repos\Filas (Queue)\obj\Debug\net8.0\ref\Filas (Queue).dll
