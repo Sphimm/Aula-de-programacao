@@ -1,18 +1,61 @@
 ﻿using Filas__Vetor_;
 
 Vetor fila = new Vetor();
+Interface UI = new Interface();
+bool verf = true;
 string? item;
+int quant;
+int opcao;
 
-Console.WriteLine("Adicione um item na fila:");
-item = Console.ReadLine();
-fila.Adicionar(item);
+while (verf)
+{
+    UI.Divisao_Longa();
+    UI.Inicio();
+    UI.Divisao_Longa();
 
-Console.WriteLine("Adicione um item na fila:");
-item = Console.ReadLine();
-fila.Adicionar(item);
+    UI.Insira_Aqui();
+    opcao = int.Parse(Console.ReadLine());
+    Console.WriteLine();
 
-fila.Spy();
+    if (opcao == 1)
+    {
+        Console.WriteLine("Escreva a quantidade de lugares na fila:");        
+        Console.WriteLine();
+        UI.Insira_Aqui();
+        quant = int.Parse(Console.ReadLine());
+        fila.Criar(quant);
+    } //Criar Fila
 
-fila.Remover();
+    else if (opcao == 2)
+    {
+        Console.WriteLine("Escreva o item a ser adicionado:");
+        Console.WriteLine();
+        UI.Insira_Aqui();
+        item = Console.ReadLine();
+        fila.Adicionar(item);
+    } //Adicionar Item
 
-fila.Spy();
+    else if (opcao == 3)
+    {
+        fila.Remover();
+    } //Excluir Item
+
+    else if (opcao == 4)
+    {
+        fila.Spy();
+    } //Ver Item no Topo
+
+    else if (opcao == 5)
+    {
+        fila.View();
+    } //Ver Todos os Itens
+
+    else
+    {
+        verf = false;
+        for (int i = 0; i < 100; i++)
+        {
+            Console.Write("=");
+        }
+    } //Encerrar
+}

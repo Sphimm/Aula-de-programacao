@@ -12,3 +12,18 @@ C:\Users\murilo.sseraphim\source\repos\Filas (Vetor)\obj\Debug\net8.0\refint\Fil
 C:\Users\murilo.sseraphim\source\repos\Filas (Vetor)\obj\Debug\net8.0\Filas (Vetor).pdb
 C:\Users\murilo.sseraphim\source\repos\Filas (Vetor)\obj\Debug\net8.0\Filas (Vetor).genruntimeconfig.cache
 C:\Users\murilo.sseraphim\source\repos\Filas (Vetor)\obj\Debug\net8.0\ref\Filas (Vetor).dll
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Filas (Vetor)\bin\Debug\net8.0\Filas (Vetor).exe
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Filas (Vetor)\bin\Debug\net8.0\Filas (Vetor).deps.json
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Filas (Vetor)\bin\Debug\net8.0\Filas (Vetor).runtimeconfig.json
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Filas (Vetor)\bin\Debug\net8.0\Filas (Vetor).dll
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Filas (Vetor)\bin\Debug\net8.0\Filas (Vetor).pdb
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Filas (Vetor)\obj\Debug\net8.0\Filas (Vetor).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Filas (Vetor)\obj\Debug\net8.0\Filas (Vetor).AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Filas (Vetor)\obj\Debug\net8.0\Filas (Vetor).AssemblyInfo.cs
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Filas (Vetor)\obj\Debug\net8.0\Filas (Vetor).csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Filas (Vetor)\obj\Debug\net8.0\Filas (Vetor).sourcelink.json
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Filas (Vetor)\obj\Debug\net8.0\Filas (Vetor).dll
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Filas (Vetor)\obj\Debug\net8.0\refint\Filas (Vetor).dll
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Filas (Vetor)\obj\Debug\net8.0\Filas (Vetor).pdb
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Filas (Vetor)\obj\Debug\net8.0\Filas (Vetor).genruntimeconfig.cache
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Filas (Vetor)\obj\Debug\net8.0\ref\Filas (Vetor).dll
