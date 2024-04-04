@@ -39,5 +39,18 @@ namespace Filas__Vetor_
         {
             Console.Write("Insira aqui:  ");
         }
+
+        public int Verificar(string? add)
+        {
+            int Out;
+
+            if (!int.TryParse(add, out Out) && (Out >= 0 && Out <= 10))
+            {
+                Console.WriteLine("O valor digitado é inválido, ou não está entre 1 e 6");
+                Console.WriteLine("Digite novamente:");
+                Console.WriteLine();
+                
+            }
+        }
     }
 }

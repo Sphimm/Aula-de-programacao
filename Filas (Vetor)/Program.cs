@@ -5,7 +5,9 @@ Interface UI = new Interface();
 bool verf = true;
 string? item;
 int quant;
+string quant_S;
 int opcao;
+string opcao_S;
 
 while (verf)
 {
@@ -14,7 +16,7 @@ while (verf)
     UI.Divisao_Longa();
 
     UI.Insira_Aqui();
-    opcao = int.Parse(Console.ReadLine());
+    opcao_S = Console.ReadLine();
     Console.WriteLine();
 
     if (opcao == 1)
@@ -22,7 +24,8 @@ while (verf)
         Console.WriteLine("Escreva a quantidade de lugares na fila:");        
         Console.WriteLine();
         UI.Insira_Aqui();
-        quant = int.Parse(Console.ReadLine());
+        quant_S = Console.ReadLine();
+        quant = UI.Verificar(quant_S);
         fila.Criar(quant);
     } //Criar Fila
 

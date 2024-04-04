@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Filas (Queue)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fca33ea0fb7473a0dbea935459e1fd03abcc2f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Filas (Queue)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Filas (Queue)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

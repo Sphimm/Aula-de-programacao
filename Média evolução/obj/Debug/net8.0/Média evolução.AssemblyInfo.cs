@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Média evolução")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e2b9e3735edc410d6d2a668b2d785cf8e314f8d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Média evolução")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Média evolução")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

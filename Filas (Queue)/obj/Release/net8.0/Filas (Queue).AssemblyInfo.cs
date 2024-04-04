@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Média evolução")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Filas (Queue)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Média evolução")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Média evolução")]
+[assembly: System.Reflection.AssemblyProductAttribute("Filas (Queue)")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Filas (Queue)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

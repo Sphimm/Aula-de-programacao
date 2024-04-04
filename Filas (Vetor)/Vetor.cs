@@ -8,7 +8,7 @@ namespace Filas__Vetor_
 {
     public class Vetor
     {
-        string?[] fila;
+        string[]? fila;
         int indice = 0;
 
         public void Criar(int add)
