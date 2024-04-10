@@ -17,13 +17,13 @@ for (int i = 0; i < lista.Length; i++)
 }
 for (int i = 0; i < lista.Length - 1; i++)
 {
-    for (int j = 0; j < lista.Length - 1 - i; j++)
+    for (int j = i + 1; j < lista.Length; j++)
     {
-        if (lista[j] > lista[j + 1])
+        if (lista[i] > lista[j])
         {
-            int temp = lista[j];
-            lista[j] = lista[j + 1];
-            lista[j + 1] = temp;
+            int temp = lista[i];
+            lista[i] = lista[j];
+            lista[j] = temp;
         }
     }
 }
