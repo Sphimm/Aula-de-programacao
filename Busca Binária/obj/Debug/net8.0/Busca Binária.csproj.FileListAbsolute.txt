@@ -1,0 +1,14 @@
+C:\Users\murilo.sseraphim\source\repos\Busca Binária\bin\Debug\net8.0\Busca Binária.exe
+C:\Users\murilo.sseraphim\source\repos\Busca Binária\bin\Debug\net8.0\Busca Binária.deps.json
+C:\Users\murilo.sseraphim\source\repos\Busca Binária\bin\Debug\net8.0\Busca Binária.runtimeconfig.json
+C:\Users\murilo.sseraphim\source\repos\Busca Binária\bin\Debug\net8.0\Busca Binária.dll
+C:\Users\murilo.sseraphim\source\repos\Busca Binária\bin\Debug\net8.0\Busca Binária.pdb
+C:\Users\murilo.sseraphim\source\repos\Busca Binária\obj\Debug\net8.0\Busca Binária.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murilo.sseraphim\source\repos\Busca Binária\obj\Debug\net8.0\Busca Binária.AssemblyInfoInputs.cache
+C:\Users\murilo.sseraphim\source\repos\Busca Binária\obj\Debug\net8.0\Busca Binária.AssemblyInfo.cs
+C:\Users\murilo.sseraphim\source\repos\Busca Binária\obj\Debug\net8.0\Busca Binária.csproj.CoreCompileInputs.cache
+C:\Users\murilo.sseraphim\source\repos\Busca Binária\obj\Debug\net8.0\Busca Binária.dll
+C:\Users\murilo.sseraphim\source\repos\Busca Binária\obj\Debug\net8.0\refint\Busca Binária.dll
+C:\Users\murilo.sseraphim\source\repos\Busca Binária\obj\Debug\net8.0\Busca Binária.pdb
+C:\Users\murilo.sseraphim\source\repos\Busca Binária\obj\Debug\net8.0\Busca Binária.genruntimeconfig.cache
+C:\Users\murilo.sseraphim\source\repos\Busca Binária\obj\Debug\net8.0\ref\Busca Binária.dll

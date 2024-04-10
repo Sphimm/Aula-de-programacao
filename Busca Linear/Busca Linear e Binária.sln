@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Busca Linear", "Busca Linear.csproj", "{8A3D6270-1AA8-489B-896A-FC96B9DFF54B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Busca Binária", "..\Busca Binária\Busca Binária.csproj", "{5E32E45E-B176-4BF1-8115-FBD9BB32C03C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A3D6270-1AA8-489B-896A-FC96B9DFF54B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A3D6270-1AA8-489B-896A-FC96B9DFF54B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A3D6270-1AA8-489B-896A-FC96B9DFF54B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A3D6270-1AA8-489B-896A-FC96B9DFF54B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E32E45E-B176-4BF1-8115-FBD9BB32C03C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E32E45E-B176-4BF1-8115-FBD9BB32C03C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E32E45E-B176-4BF1-8115-FBD9BB32C03C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E32E45E-B176-4BF1-8115-FBD9BB32C03C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F7F7E55-DD23-46D0-A960-044E2D6A217B}
+	EndGlobalSection
+EndGlobal

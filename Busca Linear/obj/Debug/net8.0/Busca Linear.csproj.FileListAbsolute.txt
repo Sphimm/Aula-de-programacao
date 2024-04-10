@@ -1,0 +1,14 @@
+C:\Users\murilo.sseraphim\source\repos\Busca Linear\bin\Debug\net8.0\Busca Linear.exe
+C:\Users\murilo.sseraphim\source\repos\Busca Linear\bin\Debug\net8.0\Busca Linear.deps.json
+C:\Users\murilo.sseraphim\source\repos\Busca Linear\bin\Debug\net8.0\Busca Linear.runtimeconfig.json
+C:\Users\murilo.sseraphim\source\repos\Busca Linear\bin\Debug\net8.0\Busca Linear.dll
+C:\Users\murilo.sseraphim\source\repos\Busca Linear\bin\Debug\net8.0\Busca Linear.pdb
+C:\Users\murilo.sseraphim\source\repos\Busca Linear\obj\Debug\net8.0\Busca Linear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murilo.sseraphim\source\repos\Busca Linear\obj\Debug\net8.0\Busca Linear.AssemblyInfoInputs.cache
+C:\Users\murilo.sseraphim\source\repos\Busca Linear\obj\Debug\net8.0\Busca Linear.AssemblyInfo.cs
+C:\Users\murilo.sseraphim\source\repos\Busca Linear\obj\Debug\net8.0\Busca Linear.csproj.CoreCompileInputs.cache
+C:\Users\murilo.sseraphim\source\repos\Busca Linear\obj\Debug\net8.0\Busca Linear.dll
+C:\Users\murilo.sseraphim\source\repos\Busca Linear\obj\Debug\net8.0\refint\Busca Linear.dll
+C:\Users\murilo.sseraphim\source\repos\Busca Linear\obj\Debug\net8.0\Busca Linear.pdb
+C:\Users\murilo.sseraphim\source\repos\Busca Linear\obj\Debug\net8.0\Busca Linear.genruntimeconfig.cache
+C:\Users\murilo.sseraphim\source\repos\Busca Linear\obj\Debug\net8.0\ref\Busca Linear.dll
