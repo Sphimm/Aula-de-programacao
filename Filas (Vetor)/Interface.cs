@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -35,22 +36,28 @@ namespace Filas__Vetor_
             Console.WriteLine();
         }
 
-        public void Insira_Aqui()
-        {
+        public int Insira_Aqui()
+        {         
+            int Out;
+            
             Console.Write("Insira aqui:  ");
+            Out = int.Parse(Console.ReadLine());                
+            return Out;
         }
 
-        public int Verificar(string? add)
+        public void Fim()
         {
-            int Out;
+            Console.WriteLine();
+            Console.WriteLine("Programa encerrado");
+            Console.WriteLine();
+        }    
 
-            if (!int.TryParse(add, out Out) && (Out >= 0 && Out <= 10))
-            {
-                Console.WriteLine("O valor digitado é inválido, ou não está entre 1 e 6");
-                Console.WriteLine("Digite novamente:");
-                Console.WriteLine();
-                
-            }
+    public void Erro()
+        {
+            Console.WriteLine();
+            Console.WriteLine("O valor digitado é inválido, ou não está entre 1 e 6");
+            Console.WriteLine("Digite novamente");
+            Console.WriteLine();
         }
     }
 }

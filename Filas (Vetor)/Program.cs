@@ -1,18 +1,50 @@
 ﻿using Filas__Vetor_;
 
 Vetor fila = new Vetor();
-string? item;
+Interface inter = new Interface();
+int opcao = 0;
 
-Console.WriteLine("Adicione um item na fila:");
-item = Console.ReadLine();
-fila.Adicionar(item);
+do
+{
+    inter.Divisao_Longa();
+    inter.Inicio();
+    inter.Divisao_Longa();
 
-Console.WriteLine("Adicione um item na fila:");
-item = Console.ReadLine();
-fila.Adicionar(item);
+    opcao = inter.Insira_Aqui();
 
-fila.Spy();
+    switch (opcao)
+    {
+        case 1:
+            fila.Criar();
+            break;
 
-fila.Remover();
+        case 2:
+            fila.Adicionar();
+            break;
 
-fila.Spy();
+        case 3:
+            fila.Remover();
+            break;
+
+        case 4:
+            fila.Spy();
+            break;
+
+        case 5:
+            fila.View();
+            break;
+
+        case 6:
+            inter.Fim();
+            break;
+
+        default:
+            inter.Erro();        
+            break;
+    }
+
+} while (opcao != 6);
+
+
+
+
