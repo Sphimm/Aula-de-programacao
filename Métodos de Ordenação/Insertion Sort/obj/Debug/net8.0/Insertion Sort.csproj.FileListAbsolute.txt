@@ -1,0 +1,14 @@
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Insertion Sort\bin\Debug\net8.0\Insertion Sort.exe
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Insertion Sort\bin\Debug\net8.0\Insertion Sort.deps.json
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Insertion Sort\bin\Debug\net8.0\Insertion Sort.runtimeconfig.json
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Insertion Sort\bin\Debug\net8.0\Insertion Sort.dll
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Insertion Sort\bin\Debug\net8.0\Insertion Sort.pdb
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Insertion Sort\obj\Debug\net8.0\Insertion Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Insertion Sort\obj\Debug\net8.0\Insertion Sort.AssemblyInfoInputs.cache
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Insertion Sort\obj\Debug\net8.0\Insertion Sort.AssemblyInfo.cs
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Insertion Sort\obj\Debug\net8.0\Insertion Sort.csproj.CoreCompileInputs.cache
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Insertion Sort\obj\Debug\net8.0\Insertion Sort.dll
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Insertion Sort\obj\Debug\net8.0\refint\Insertion Sort.dll
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Insertion Sort\obj\Debug\net8.0\Insertion Sort.pdb
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Insertion Sort\obj\Debug\net8.0\Insertion Sort.genruntimeconfig.cache
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Insertion Sort\obj\Debug\net8.0\ref\Insertion Sort.dll

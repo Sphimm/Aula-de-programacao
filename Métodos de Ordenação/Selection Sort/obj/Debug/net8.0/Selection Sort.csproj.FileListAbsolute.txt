@@ -1,0 +1,14 @@
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Selection Sort\bin\Debug\net8.0\Selection Sort.exe
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Selection Sort\bin\Debug\net8.0\Selection Sort.deps.json
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Selection Sort\bin\Debug\net8.0\Selection Sort.runtimeconfig.json
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Selection Sort\bin\Debug\net8.0\Selection Sort.dll
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Selection Sort\bin\Debug\net8.0\Selection Sort.pdb
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Selection Sort\obj\Debug\net8.0\Selection Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Selection Sort\obj\Debug\net8.0\Selection Sort.AssemblyInfoInputs.cache
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Selection Sort\obj\Debug\net8.0\Selection Sort.AssemblyInfo.cs
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Selection Sort\obj\Debug\net8.0\Selection Sort.csproj.CoreCompileInputs.cache
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Selection Sort\obj\Debug\net8.0\Selection Sort.dll
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Selection Sort\obj\Debug\net8.0\refint\Selection Sort.dll
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Selection Sort\obj\Debug\net8.0\Selection Sort.pdb
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Selection Sort\obj\Debug\net8.0\Selection Sort.genruntimeconfig.cache
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Selection Sort\obj\Debug\net8.0\ref\Selection Sort.dll

@@ -1,0 +1,14 @@
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Bubble Sort\bin\Debug\net8.0\Bubble Sort.exe
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Bubble Sort\bin\Debug\net8.0\Bubble Sort.deps.json
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Bubble Sort\bin\Debug\net8.0\Bubble Sort.runtimeconfig.json
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Bubble Sort\bin\Debug\net8.0\Bubble Sort.dll
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Bubble Sort\bin\Debug\net8.0\Bubble Sort.pdb
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Bubble Sort\obj\Debug\net8.0\Bubble Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Bubble Sort\obj\Debug\net8.0\Bubble Sort.AssemblyInfoInputs.cache
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Bubble Sort\obj\Debug\net8.0\Bubble Sort.AssemblyInfo.cs
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Bubble Sort\obj\Debug\net8.0\Bubble Sort.csproj.CoreCompileInputs.cache
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Bubble Sort\obj\Debug\net8.0\Bubble Sort.dll
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Bubble Sort\obj\Debug\net8.0\refint\Bubble Sort.dll
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Bubble Sort\obj\Debug\net8.0\Bubble Sort.pdb
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Bubble Sort\obj\Debug\net8.0\Bubble Sort.genruntimeconfig.cache
+C:\Users\murilo.sseraphim\source\repos\Métodos de Ordenação\Bubble Sort\obj\Debug\net8.0\ref\Bubble Sort.dll
