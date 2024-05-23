@@ -31,7 +31,7 @@ namespace Main
 
         }
 
-        private void Linha()
+        public void Linha()
         {
             for (int i = 0; i < 50; i++)
             {
@@ -76,6 +76,16 @@ namespace Main
 
             return opcao;
 
+        }
+
+        public void Mlinha()
+        {
+            for (int i = 0; i < 25; i++)
+            {
+                Console.Write("-");
+            }
+
+            Console.WriteLine();
         }
 
     }
