@@ -9,12 +9,13 @@ namespace Main
     public class Jogadas
     {
         public Queue<int> Escolha = new Queue<int>();
+        public string[] Opcoes = new string[] { "Pedra", "Papel", "Tesoura", "Voltar" };
 
         public void Add(int add)
         {
             Escolha.Enqueue(add);
             Console.WriteLine();
-            Console.WriteLine($"Sua jogada foi: '{add}'");
+            Console.WriteLine($"Você escolheu: '{Opcoes[add]}'");
             Console.WriteLine();
         }
 
@@ -33,7 +34,7 @@ namespace Main
             Console.WriteLine();
         }
 
-        public void View()
+        public void Tentativas()
         {
             Console.WriteLine();
             Console.WriteLine("Os itens da fila são:");

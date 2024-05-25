@@ -12,3 +12,18 @@ C:\Users\murilo.sseraphim\source\repos\Jogo - ADO\Main\obj\Debug\net8.0\refint\M
 C:\Users\murilo.sseraphim\source\repos\Jogo - ADO\Main\obj\Debug\net8.0\Main.pdb
 C:\Users\murilo.sseraphim\source\repos\Jogo - ADO\Main\obj\Debug\net8.0\Main.genruntimeconfig.cache
 C:\Users\murilo.sseraphim\source\repos\Jogo - ADO\Main\obj\Debug\net8.0\ref\Main.dll
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Jogo - ADO\Main\bin\Debug\net8.0\Main.exe
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Jogo - ADO\Main\bin\Debug\net8.0\Main.deps.json
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Jogo - ADO\Main\bin\Debug\net8.0\Main.runtimeconfig.json
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Jogo - ADO\Main\bin\Debug\net8.0\Main.dll
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Jogo - ADO\Main\bin\Debug\net8.0\Main.pdb
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Jogo - ADO\Main\obj\Debug\net8.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Jogo - ADO\Main\obj\Debug\net8.0\Main.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Jogo - ADO\Main\obj\Debug\net8.0\Main.AssemblyInfo.cs
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Jogo - ADO\Main\obj\Debug\net8.0\Main.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Jogo - ADO\Main\obj\Debug\net8.0\Main.sourcelink.json
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Jogo - ADO\Main\obj\Debug\net8.0\Main.dll
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Jogo - ADO\Main\obj\Debug\net8.0\refint\Main.dll
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Jogo - ADO\Main\obj\Debug\net8.0\Main.pdb
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Jogo - ADO\Main\obj\Debug\net8.0\Main.genruntimeconfig.cache
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Jogo - ADO\Main\obj\Debug\net8.0\ref\Main.dll

@@ -11,8 +11,7 @@ namespace Main
     {
         Jogadas jogadas = new Jogadas();
         Interface_Inicial UI = new Interface_Inicial();
-        public string? Nome;
-        public string[] Opcoes = new string[] { "Pedra", "Papel", "Tesoura", "Voltar" };
+        public string? Nome;        
         public void Switch(int opcao)
         {
             switch (opcao)
@@ -44,7 +43,7 @@ namespace Main
         {            
             Console.WriteLine();
 
-            Console.WriteLine("Digite o seu nome: ");
+            Console.Write("Digite o seu nome: ");
             Nome = Console.ReadLine();
             Console.WriteLine("O nome do jogador é: " + Nome);
 
@@ -54,6 +53,7 @@ namespace Main
         public void Jogar()
         {
             jogadas.Add(Escolha());
+            Random();
 
         }
 
@@ -63,11 +63,18 @@ namespace Main
             UI.Mlinha();
             Console.WriteLine();
 
-            Console.Write("Escolha uma opção:");
+            Console.WriteLine("Escolha uma opção:");
+            Console.WriteLine();
 
-            for (int i = 0; i < Opcoes.Length; i++)
+            for (int i = 0; i < jogadas.Opcoes.Length; i++)
             {
-                Console.WriteLine($"{i} - {Opcoes[i]}");
+                
+                if (i == 3)
+                {
+                    Console.WriteLine();
+                }
+
+                Console.WriteLine($"{i} - {jogadas.Opcoes[i]}");
             }
 
             opcao = ReadOut();
@@ -88,7 +95,6 @@ namespace Main
             Console.Write("Digite aqui: ");
 
             string? entrada = Console.ReadLine();
-            Console.WriteLine();
             return entrada;
         }
 
@@ -111,6 +117,13 @@ namespace Main
 
             return opcao;
 
+        }
+
+        public void Random()
+        {
+            Random random = new Random();
+            int numero = random.Next(0, 2);
+            Console.WriteLine("O computador escolheu: " + jogadas.Opcoes[numero]);
         }
     }
 }
