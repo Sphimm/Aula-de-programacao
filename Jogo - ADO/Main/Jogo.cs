@@ -7,28 +7,13 @@ using Main;
 
 namespace Main
 {
-    internal class Jogo
-    {
-        Jogadas jogadas = new Jogadas();
-        Interface_Inicial UI = new Interface_Inicial();
-        public string? Nome;        
-        public void Switch(int opcao)
-        {
-            switch (opcao)
-            {
-                case 1:
-                    IniciarJogo();
-                    break;
-                case 2:
-                    Console.WriteLine("Exibir Resumo");
-                    break;
-                case 3:
-                    Console.WriteLine("Sair");
-                    break;
-            }
-        }
+    internal class Jogo : Program
+    {              
+        public string? Nome;   
+        public int jogadorPoint;
+        public int adversarioPoint;
 
-        private void IniciarJogo()
+        public void IniciarJogo()
         {
             UI.Linha();
             Console.WriteLine();
@@ -45,6 +30,7 @@ namespace Main
 
             Console.Write("Digite o seu nome: ");
             Nome = Console.ReadLine();
+            Console.WriteLine();
             Console.WriteLine("O nome do jogador é: " + Nome);
 
             Console.WriteLine();
@@ -53,7 +39,7 @@ namespace Main
         public void Jogar()
         {
             jogadas.Add(Escolha());
-            Random();
+            jogadas.Random();
 
         }
 
@@ -119,11 +105,5 @@ namespace Main
 
         }
 
-        public void Random()
-        {
-            Random random = new Random();
-            int numero = random.Next(0, 2);
-            Console.WriteLine("O computador escolheu: " + jogadas.Opcoes[numero]);
-        }
     }
 }
