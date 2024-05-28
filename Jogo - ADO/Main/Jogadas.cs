@@ -7,12 +7,20 @@ using Main;
 
 namespace Main
 {
-    internal class Jogadas : Class1
+    public class Jogadas : Inicializacoes
     {
-        
+        Jogo jogo;
+        Interface_Inicial UI;
+
+        public Jogadas(Jogo jogo, Interface_Inicial UI)
+        {
+            this.jogo = jogo;
+            this.UI = UI;
+        }
+
+        public Queue<int> randomNum = new Queue<int>();
         public Queue<int> jogadorNum = new Queue<int>();
         public string[] Opcoes = new string[] { "Pedra", "Papel", "Tesoura", "Voltar" };
-        public Queue<int> randomNum = new Queue<int>();
 
         public void Add(int add)
         {

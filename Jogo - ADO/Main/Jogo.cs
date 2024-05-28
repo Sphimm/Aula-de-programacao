@@ -7,8 +7,17 @@ using Main;
 
 namespace Main
 {
-    internal class Jogo : Program
-    {              
+    public class Jogo : Inicializacoes
+    {
+        Jogadas jogadas;
+        Interface_Inicial UI;
+
+        public Jogo(Interface_Inicial UI)
+        {
+            this.UI = UI;
+            this.jogadas = new Jogadas(this, UI);
+        }
+
         public string? Nome;   
         public int jogadorPoint;
         public int adversarioPoint;

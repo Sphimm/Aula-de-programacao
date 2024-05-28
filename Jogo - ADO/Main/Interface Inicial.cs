@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Main
 {
-    internal class Interface_Inicial : Class1
+    public class Interface_Inicial : Inicializacoes
     {
         public int Menu()
         {
