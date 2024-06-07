@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Main
+namespace Programa
 {
     public class Interface_Inicial : Inicializacoes
     {

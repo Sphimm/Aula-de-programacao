@@ -3,21 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Main;
+using Programa;
 
-namespace Main
+namespace Programa
 {
-    public class Jogadas : Inicializacoes
+    public class Jogadas
     {
-        Jogo jogo;
-        Interface_Inicial UI;
 
-        public Jogadas(Jogo jogo, Interface_Inicial UI)
-        {
-            this.jogo = jogo;
-            this.UI = UI;
-        }
-
+        public int jogadorPoint;
+        public int adversarioPoint;
         public Queue<int> randomNum = new Queue<int>();
         public Queue<int> jogadorNum = new Queue<int>();
         public string[] Opcoes = new string[] { "Pedra", "Papel", "Tesoura", "Voltar" };
@@ -72,14 +66,14 @@ namespace Main
                 {
                     Console.WriteLine("Você perdeu");
 
-                    jogo.adversarioPoint++;
+                    adversarioPoint++;
                     return 0;
                 }
                 else if(randomNum.Peek() == 2) // Tesoura
                 {
                     Console.WriteLine("Você ganhou");
 
-                    jogo.jogadorPoint++;
+                    jogadorPoint++;
                     return 1;
                 }
                 else
@@ -96,14 +90,14 @@ namespace Main
                 {
                     Console.WriteLine("Você perdeu");
 
-                    jogo.adversarioPoint++;
+                    adversarioPoint++;
                     return 0;
                 }
                 else if (randomNum.Peek() == 0)
                 {
                     Console.WriteLine("Você ganhou");
 
-                    jogo.jogadorPoint++;
+                    jogadorPoint++;
                     return 1;
                 }
                 else
@@ -120,14 +114,14 @@ namespace Main
                 {
                     Console.WriteLine("Você perdeu");
 
-                    jogo.adversarioPoint++;
+                    adversarioPoint++;
                     return 0;
                 }
                 else if (randomNum.Peek() == 1)
                 {
                     Console.WriteLine("Você ganhou");
 
-                    jogo.jogadorPoint++;
+                    jogadorPoint++;
                     return 1;
                 }
                 else

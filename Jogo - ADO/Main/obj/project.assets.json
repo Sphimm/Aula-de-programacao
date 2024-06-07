@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\OneDrive - SENAC - SP\\Documentos\\GitHub\\Aula-de-programacao\\Jogo - ADO\\Main\\Main.csproj",
-      "projectName": "Main",
-      "projectPath": "C:\\Users\\User\\OneDrive - SENAC - SP\\Documentos\\GitHub\\Aula-de-programacao\\Jogo - ADO\\Main\\Main.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive - SENAC - SP\\Documentos\\GitHub\\Aula-de-programacao\\Jogo - ADO\\Main\\Programa.csproj",
+      "projectName": "Programa",
+      "projectPath": "C:\\Users\\User\\OneDrive - SENAC - SP\\Documentos\\GitHub\\Aula-de-programacao\\Jogo - ADO\\Main\\Programa.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\OneDrive - SENAC - SP\\Documentos\\GitHub\\Aula-de-programacao\\Jogo - ADO\\Main\\obj\\",
       "projectStyle": "PackageReference",

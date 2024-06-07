@@ -3,24 +3,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Main;
+using Programa;
 
-namespace Main
+namespace Programa
 {
     public class Jogo : Inicializacoes
     {
-        Jogadas jogadas;
-        Interface_Inicial UI;
-
-        public Jogo(Interface_Inicial UI)
-        {
-            this.UI = UI;
-            this.jogadas = new Jogadas(this, UI);
-        }
+        Jogadas jogadas = new Jogadas();
+        Interface_Inicial UI = new Interface_Inicial();
 
         public string? Nome;   
-        public int jogadorPoint;
-        public int adversarioPoint;
 
         public void IniciarJogo()
         {
