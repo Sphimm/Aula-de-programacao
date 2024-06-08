@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Programa
 {
-    public class Interface_Inicial : Inicializacoes
+    public class Interface_Inicial
     {
         public int Menu()
         {
@@ -15,7 +15,6 @@ namespace Programa
             Linha();
 
             Console.WriteLine();
-            Console.WriteLine("Bem-vindo ao Pedra Papel e Tesoura!");
             Console.WriteLine("Escolha uma opção:");
             Console.WriteLine();
 
@@ -70,7 +69,7 @@ namespace Programa
             while (!(opcao > 0 && opcao < 4))
             {
                 Console.WriteLine("Opção inválida (A entrada não está entre 1 e 3). Tente novamente.");
-                ValidarEntrada(Read());
+                return ValidarEntrada(Read());
 
             }
 
@@ -85,6 +84,13 @@ namespace Programa
                 Console.Write("-");
             }
 
+            Console.WriteLine();
+        }
+
+        public void BemVindo()
+        {
+            Console.WriteLine();
+            Console.WriteLine("Bem-vindo ao Jogo Pedra, Papel e Tesoura!");
             Console.WriteLine();
         }
 

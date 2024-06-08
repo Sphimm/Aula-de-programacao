@@ -12,129 +12,111 @@ namespace Programa
 
         public int jogadorPoint;
         public int adversarioPoint;
-        public Queue<int> randomNum = new Queue<int>();
-        public Queue<int> jogadorNum = new Queue<int>();
-        public string[] Opcoes = new string[] { "Pedra", "Papel", "Tesoura", "Voltar" };
+        public int escolha;
+        public int escolhaAd;
+        public List<int> randomNum = new List<int>();
+        public List<int> jogadorNum = new List<int>();
+        public string[] Opcoes = new string[] { "Pedra", "Papel", "Tesoura"};
+
+        Random random = new Random();
 
         public void Add(int add)
         {
-            jogadorNum.Enqueue(add);
+            escolha = add;
+            jogadorNum.Add(add);
             Console.WriteLine();
             Console.WriteLine($"Você escolheu: '{Opcoes[add]}'");
             Console.WriteLine();
         }
 
-        public void Remover()
-        {
-            Console.WriteLine();
-            Console.WriteLine($"O item: '{jogadorNum.Peek()}' foi removido");
-            jogadorNum.Dequeue();
-            Console.WriteLine();
-        }
-
-        public void Spy()
-        {
-            Console.WriteLine();
-            Console.WriteLine($"O primeiro item da fila é: '{jogadorNum.Peek()}'");
-            Console.WriteLine();
-        }
-
-        public void Tentativas()
-        {
-            Console.WriteLine();
-            Console.WriteLine("Os itens da fila são:");
-            Console.WriteLine();
-            foreach (int item in jogadorNum)
-            {
-                Console.WriteLine(item);
-                Console.WriteLine();
-            }
-        }
-
         public void Random()
         {
-            Random random = new Random();
-            randomNum.Enqueue(random.Next(0, 2));
-            Console.WriteLine("Seu adversário escolheu: " + Opcoes[randomNum.Peek()]);
+            escolhaAd = random.Next(0, 3);
+            randomNum.Add(escolhaAd);         
+            Console.WriteLine("Seu adversário escolheu: " + escolhaAd + " - " + Opcoes[escolhaAd]);
+            Console.WriteLine();
         }
 
-        public int Comparação()
+        public void Comparação()
         {
-            if(jogadorNum.Peek() == 0)
+            
+            switch (escolha)
             {
-                if(randomNum.Peek() == 1) // Papel
-                {
-                    Console.WriteLine("Você perdeu");
+                /* Pedra */ case 0:
+                    
+                    if (escolhaAd == 2) // Tesoura
+                    {
+                        Console.WriteLine("Ponto para o Jogador");
+                        jogadorPoint++;
 
-                    adversarioPoint++;
-                    return 0;
-                }
-                else if(randomNum.Peek() == 2) // Tesoura
-                {
-                    Console.WriteLine("Você ganhou");
+                        break;
+                    }
 
+                    else if (escolhaAd == 1) // Papel
+                    {
+                        
+                        Console.WriteLine("Ponto para o Adversário");
+                        adversarioPoint++;
+
+                        break;
+                    }
+
+                    else // Pedra
+                    {
+                        Console.WriteLine("Empate");
+                        break;
+                    }                       
+
+                /* Papel */ case 1:
+
+                if (escolhaAd == 0) // Pedra
+                {
+                    Console.WriteLine("Ponto para o Jogador");
                     jogadorPoint++;
-                    return 1;
+
+                    break;
                 }
-                else
+    
+                else if (escolhaAd == 2) // Tesoura
+                {
+                    Console.WriteLine("Ponto para o Adversário");
+                    adversarioPoint++;
+
+                    break;
+                }
+    
+                else // Papel
                 {
                     Console.WriteLine("Empate");
-
-                    return 2;
+                     break;
                 }
-            } // Pedra
 
-            else if(jogadorNum.Peek() == 1)
-            {
-                if (randomNum.Peek() == 2)
-                {
-                    Console.WriteLine("Você perdeu");
+                /* Tesoura */ case 2:
 
-                    adversarioPoint++;
-                    return 0;
-                }
-                else if (randomNum.Peek() == 0)
-                {
-                    Console.WriteLine("Você ganhou");
+                    if (escolhaAd == 1) // Papel
+                    {
+                        Console.WriteLine("Ponto para o Jogador");
+                        jogadorPoint++;
 
-                    jogadorPoint++;
-                    return 1;
-                }
-                else
-                {
-                    Console.WriteLine("Empate");
+                        break;
+                    }
+        
+                    else if (escolhaAd == 0) // Pedra
+                    {
+                        Console.WriteLine("Ponto para o Adversário");
+                        adversarioPoint++;
 
-                    return 2;
-                }
-            } // Papel
+                        break;
+                    }
+        
+                    else // Tesoura
+                    {
+                        Console.WriteLine("Empate");
+                        break;
+                    }
 
-            else if(jogadorNum.Peek() == 2)
-            {
-                if (randomNum.Peek() == 0)
-                {
-                    Console.WriteLine("Você perdeu");
-
-                    adversarioPoint++;
-                    return 0;
-                }
-                else if (randomNum.Peek() == 1)
-                {
-                    Console.WriteLine("Você ganhou");
-
-                    jogadorPoint++;
-                    return 1;
-                }
-                else
-                {
-                    Console.WriteLine("Empate");
-
-                    return 2;
-                }
-            } // Tesoura
-
-            else
-            {
-                return 3;
+                default:
+                    break;
             }
 
         }

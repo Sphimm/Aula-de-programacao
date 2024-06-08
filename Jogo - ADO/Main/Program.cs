@@ -13,22 +13,26 @@ namespace Programa
 
             int opcao;
 
-            opcao = UI.Menu();
-            Console.WriteLine();
-
-            switch (opcao)
+            UI.BemVindo();
+           
+            do
             {
-                case 1:
-                    jogo.IniciarJogo();
-                    break;
-                case 2:
-                    Console.WriteLine("Exibir Resumo");
-                    break;
-                case 3:
-                    Console.WriteLine("Sair");
-                    break;
-            }
+                opcao = UI.Menu();
+                Console.WriteLine();
+
+                switch (opcao)
+                {
+                    case 1:
+                        jogo.IniciarJogo();
+                        break;
+                    case 2:
+                        jogo.ExibirResumo();
+                        break;
+                    case 3:
+                        jogo.Sair();
+                        break;
+                }
+            } while (opcao != 3);
         }
     }
-
 }
