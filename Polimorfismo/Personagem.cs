@@ -22,8 +22,18 @@ namespace Polimorfismo
 
         public virtual float VidaAtual()
         {
+
+            if (Vida <= 0)
+            {
+
+                Vida = 0;
+
+            }
+
             Console.WriteLine($"Vida: {Vida}");
+
             return Vida;
+
         }
 
         public virtual float Atacar()
@@ -35,12 +45,18 @@ namespace Polimorfismo
         public void ReceberDano(Personagem atacante)
         {                                   
 
+            atacante.Atacar();
+
             Console.WriteLine($"{atacante.Nome} te atacou! Dano recebido: {atacante.Dano}");
-            Vida -= Dano;
+            Vida -= atacante.Dano;
+
+            VidaAtual();
 
             if (Vida <= 0)
             {
+
                 Morrer(atacante);
+
             }
 
         }

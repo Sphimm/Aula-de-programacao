@@ -1,6 +1,12 @@
 ﻿using Polimorfismo;
 
-Personagem Cláudio = new Humano();
+Personagem h = new Humano();
+Personagem o = new Orc();
 
-Cláudio.VidaAtual();
-Cláudio.Atacar();
+
+h.VidaAtual();
+Console.WriteLine();
+o.VidaAtual();
+
+Console.WriteLine();
+h.ReceberDano(o);

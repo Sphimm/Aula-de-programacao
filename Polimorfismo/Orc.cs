@@ -6,20 +6,20 @@ using System.Threading.Tasks;
 
 namespace Polimorfismo
 {
-    public class Humano : Personagem
+    public class Orc : Personagem
     {
 
-        public Humano()
+        public Orc()
         {
-            
-            Vida = 15;
 
-            Console.Write("Escreva o nome do Humano: ");
+            Vida = 200;
+
+            Console.Write("Escreva o nome do Orc: ");
             Nome = Console.ReadLine();
 
-            Dano = 10.5f;
+            Dano = 20.5f;
 
-            lingua = "Português";
+            lingua = "Espanhol";
 
         }
 
@@ -33,8 +33,7 @@ namespace Polimorfismo
 
             }
 
-            Console.WriteLine($"Vida de {Nome}, o Humano: {Vida}");
-
+            Console.WriteLine($"Vida de {Nome}, o Orc: {Vida}");
 
             return Vida;
 
@@ -42,8 +41,8 @@ namespace Polimorfismo
 
         public override float Atacar()
         {
-            
-            Console.WriteLine($"Ataque de {Nome}, o Humano: {Dano}");
+
+            Console.WriteLine($"Ataque de {Nome}, o Orc: {Dano}");
             return Dano;
 
         }
