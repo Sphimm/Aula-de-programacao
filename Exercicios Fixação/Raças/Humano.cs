@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Exercícios_Fixação
+namespace Exercicios_Fixação.Personagem
 {
     public class Humano : Personagem
     {

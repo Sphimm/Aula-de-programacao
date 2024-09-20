@@ -3,9 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Exercícios_Fixação;
 
-namespace Exercícios_Fixação
+namespace Exercicios_Fixação
 {
     public enum Classe
     {
@@ -28,7 +27,7 @@ namespace Exercícios_Fixação
 
         protected int agilidade { get; set; }
 
- 
+
         public Personagem(string nome, Classe tipo)
         {
 
@@ -37,9 +36,9 @@ namespace Exercícios_Fixação
             Classe classe = tipo;
 
             forca = 10;
-            
+
             velocidade = 10;
-            
+
             agilidade = 10;
 
         }

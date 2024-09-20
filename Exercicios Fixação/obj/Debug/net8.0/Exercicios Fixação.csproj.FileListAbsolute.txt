@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Exercicios Fixação\bin\Debug\net8.0\Exercicios Fixação.exe
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Exercicios Fixação\bin\Debug\net8.0\Exercicios Fixação.deps.json
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Exercicios Fixação\bin\Debug\net8.0\Exercicios Fixação.runtimeconfig.json
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Exercicios Fixação\bin\Debug\net8.0\Exercicios Fixação.dll
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Exercicios Fixação\bin\Debug\net8.0\Exercicios Fixação.pdb
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Exercicios Fixação\obj\Debug\net8.0\Exercicios Fixação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Exercicios Fixação\obj\Debug\net8.0\Exercicios Fixação.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Exercicios Fixação\obj\Debug\net8.0\Exercicios Fixação.AssemblyInfo.cs
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Exercicios Fixação\obj\Debug\net8.0\Exercicios Fixação.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Exercicios Fixação\obj\Debug\net8.0\Exercicios Fixação.sourcelink.json
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Exercicios Fixação\obj\Debug\net8.0\Exercicios Fixação.dll
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Exercicios Fixação\obj\Debug\net8.0\refint\Exercicios Fixação.dll
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Exercicios Fixação\obj\Debug\net8.0\Exercicios Fixação.pdb
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Exercicios Fixação\obj\Debug\net8.0\Exercicios Fixação.genruntimeconfig.cache
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\Exercicios Fixação\obj\Debug\net8.0\ref\Exercicios Fixação.dll
