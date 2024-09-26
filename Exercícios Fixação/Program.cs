@@ -1,2 +1,0 @@
-﻿using Exercícios_Fixação;
-

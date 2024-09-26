@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\murilo.sseraphim\\source\\repos\\Exercícios Fixação\\Exercício 2.csproj": {}
+    "C:\\Users\\murilo.sseraphim\\source\\repos\\Lista Prova 1\\Lista Prova 1\\Lista Prova 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\murilo.sseraphim\\source\\repos\\Exercícios Fixação\\Exercício 2.csproj": {
+    "C:\\Users\\murilo.sseraphim\\source\\repos\\Lista Prova 1\\Lista Prova 1\\Lista Prova 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\murilo.sseraphim\\source\\repos\\Exercícios Fixação\\Exercício 2.csproj",
-        "projectName": "Exercício 2",
-        "projectPath": "C:\\Users\\murilo.sseraphim\\source\\repos\\Exercícios Fixação\\Exercício 2.csproj",
+        "projectUniqueName": "C:\\Users\\murilo.sseraphim\\source\\repos\\Lista Prova 1\\Lista Prova 1\\Lista Prova 1.csproj",
+        "projectName": "Lista Prova 1",
+        "projectPath": "C:\\Users\\murilo.sseraphim\\source\\repos\\Lista Prova 1\\Lista Prova 1\\Lista Prova 1.csproj",
         "packagesPath": "C:\\Users\\murilo.sseraphim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\murilo.sseraphim\\source\\repos\\Exercícios Fixação\\obj\\",
+        "outputPath": "C:\\Users\\murilo.sseraphim\\source\\repos\\Lista Prova 1\\Lista Prova 1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
