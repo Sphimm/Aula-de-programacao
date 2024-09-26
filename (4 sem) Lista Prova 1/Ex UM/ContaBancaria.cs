@@ -23,17 +23,18 @@ namespace Ex_UM
         {
 
             saldo += valor;
-
+            Transacao("Depósito", saldo);
 
         }
 
         public override void Sacar(double valor)
         {
         
-            if (saldo >= valor)
+            if (saldo > 0 && saldo >= valor)
             {
             
                 saldo -= valor;
+                Transacao("Saque", saldo);              
 
             }
 
@@ -41,6 +42,7 @@ namespace Ex_UM
             {
             
                 Console.WriteLine("Saldo insuficiente!");
+                Console.WriteLine();
 
             }
 

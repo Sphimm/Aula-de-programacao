@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex DOIS\bin\Debug\net8.0\Ex DOIS.exe
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex DOIS\bin\Debug\net8.0\Ex DOIS.deps.json
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex DOIS\bin\Debug\net8.0\Ex DOIS.runtimeconfig.json
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex DOIS\bin\Debug\net8.0\Ex DOIS.dll
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex DOIS\bin\Debug\net8.0\Ex DOIS.pdb
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex DOIS\obj\Debug\net8.0\Ex DOIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex DOIS\obj\Debug\net8.0\Ex DOIS.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex DOIS\obj\Debug\net8.0\Ex DOIS.AssemblyInfo.cs
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex DOIS\obj\Debug\net8.0\Ex DOIS.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex DOIS\obj\Debug\net8.0\Ex DOIS.sourcelink.json
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex DOIS\obj\Debug\net8.0\Ex DOIS.dll
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex DOIS\obj\Debug\net8.0\refint\Ex DOIS.dll
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex DOIS\obj\Debug\net8.0\Ex DOIS.pdb
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex DOIS\obj\Debug\net8.0\Ex DOIS.genruntimeconfig.cache
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex DOIS\obj\Debug\net8.0\ref\Ex DOIS.dll

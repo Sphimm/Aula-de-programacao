@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex TRES\bin\Debug\net8.0\Ex QUATRO.exe
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex TRES\bin\Debug\net8.0\Ex QUATRO.deps.json
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex TRES\bin\Debug\net8.0\Ex QUATRO.runtimeconfig.json
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex TRES\bin\Debug\net8.0\Ex QUATRO.dll
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex TRES\bin\Debug\net8.0\Ex QUATRO.pdb
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex TRES\obj\Debug\net8.0\Ex QUATRO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex TRES\obj\Debug\net8.0\Ex QUATRO.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex TRES\obj\Debug\net8.0\Ex QUATRO.AssemblyInfo.cs
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex TRES\obj\Debug\net8.0\Ex QUATRO.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex TRES\obj\Debug\net8.0\Ex QUATRO.sourcelink.json
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex TRES\obj\Debug\net8.0\Ex QUATRO.dll
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex TRES\obj\Debug\net8.0\refint\Ex QUATRO.dll
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex TRES\obj\Debug\net8.0\Ex QUATRO.pdb
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex TRES\obj\Debug\net8.0\Ex QUATRO.genruntimeconfig.cache
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex TRES\obj\Debug\net8.0\ref\Ex QUATRO.dll

@@ -13,5 +13,12 @@ namespace Ex_UM
 
         public abstract void Sacar(double valor);
 
+        public void Transacao(string tipo, double s)
+        {
+            Console.WriteLine($"{tipo} realizado com sucesso!");
+            Console.WriteLine($"Saldo atual: {s}");
+            Console.WriteLine();
+        }
+
     }
 }

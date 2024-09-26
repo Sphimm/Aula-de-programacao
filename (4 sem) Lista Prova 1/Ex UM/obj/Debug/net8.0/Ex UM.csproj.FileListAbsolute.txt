@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex UM\bin\Debug\net8.0\Ex UM.exe
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex UM\bin\Debug\net8.0\Ex UM.deps.json
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex UM\bin\Debug\net8.0\Ex UM.runtimeconfig.json
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex UM\bin\Debug\net8.0\Ex UM.dll
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex UM\bin\Debug\net8.0\Ex UM.pdb
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex UM\obj\Debug\net8.0\Ex UM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex UM\obj\Debug\net8.0\Ex UM.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex UM\obj\Debug\net8.0\Ex UM.AssemblyInfo.cs
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex UM\obj\Debug\net8.0\Ex UM.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex UM\obj\Debug\net8.0\Ex UM.sourcelink.json
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex UM\obj\Debug\net8.0\Ex UM.dll
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex UM\obj\Debug\net8.0\refint\Ex UM.dll
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex UM\obj\Debug\net8.0\Ex UM.pdb
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex UM\obj\Debug\net8.0\Ex UM.genruntimeconfig.cache
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex UM\obj\Debug\net8.0\ref\Ex UM.dll

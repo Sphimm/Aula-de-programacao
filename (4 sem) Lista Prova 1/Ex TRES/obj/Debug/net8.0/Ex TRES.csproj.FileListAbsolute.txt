@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex TRES\bin\Debug\net8.0\Ex TRES.exe
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex TRES\bin\Debug\net8.0\Ex TRES.deps.json
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex TRES\bin\Debug\net8.0\Ex TRES.runtimeconfig.json
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex TRES\bin\Debug\net8.0\Ex TRES.dll
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex TRES\bin\Debug\net8.0\Ex TRES.pdb
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex TRES\obj\Debug\net8.0\Ex TRES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex TRES\obj\Debug\net8.0\Ex TRES.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex TRES\obj\Debug\net8.0\Ex TRES.AssemblyInfo.cs
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex TRES\obj\Debug\net8.0\Ex TRES.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex TRES\obj\Debug\net8.0\Ex TRES.sourcelink.json
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex TRES\obj\Debug\net8.0\Ex TRES.dll
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex TRES\obj\Debug\net8.0\refint\Ex TRES.dll
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex TRES\obj\Debug\net8.0\Ex TRES.pdb
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex TRES\obj\Debug\net8.0\Ex TRES.genruntimeconfig.cache
+C:\Users\User\OneDrive - SENAC - SP\Documentos\GitHub\Aula-de-programacao\(4 sem) Lista Prova 1\Ex TRES\obj\Debug\net8.0\ref\Ex TRES.dll
