@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ex QUATRO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52f182e24ddfa75e56010d112db2d1899505ef57")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de45194655a6105334a18db45528ad02a392eb2a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ex QUATRO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ex QUATRO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
