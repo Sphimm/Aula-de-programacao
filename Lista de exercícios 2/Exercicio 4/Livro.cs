@@ -23,16 +23,16 @@ namespace Exercicio_4
         private EFormato formato;
         private EIdioma idioma;
 
-        public int Isbn { get => isbn; set => isbn = value; }
-        public string Titulo { get => titulo; set => titulo = value; }
-        public string Autor { get => autor; set => autor = value; }
-        public string Editora { get => editora; set => editora = value; }
-        public ECapa Capa { get => capa; set => capa = value; }
-        public int Edicao { get => edicao; set => edicao = value; }
-        public int QPaginas { get => qPaginas; set => qPaginas = value; }
-        public EGenero Genero { get => genero; set => genero = value; }
-        public EFormato Formato { get => formato; set => formato = value; }
-        public EIdioma Idioma { get => idioma; set => idioma = value; }
+        public int Isbn { get => isbn; private set => isbn = value; }
+        public string Titulo { get => titulo; private set => titulo = value; }
+        public string Autor { get => autor; private set => autor = value; }
+        public string Editora { get => editora; private set => editora = value; }
+        public ECapa Capa { get => capa; private set => capa = value; }
+        public int Edicao { get => edicao; private set => edicao = value; }
+        public int QPaginas { get => qPaginas; private set => qPaginas = value; }
+        public EGenero Genero { get => genero; private set => genero = value; }
+        public EFormato Formato { get => formato; private set => formato = value; }
+        public EIdioma Idioma { get => idioma; private set => idioma = value; }
 
         public bool isEmprestado =  false;
 
@@ -101,6 +101,24 @@ namespace Exercicio_4
             }
             genero = (EGenero)int.Parse(Console.ReadLine());
             Console.WriteLine();
+
+        }
+
+        public Livro(string titulo, string autor, string editora, int edicao, int qPaginas, EGenero genero, EFormato formato, ECapa capa, EIdioma idioma) 
+        {
+
+            isbn = id;
+            id++;
+
+            this.titulo = titulo;
+            this.autor = autor;
+            this.editora = editora;
+            this.edicao = edicao;
+            this.qPaginas = qPaginas;
+            this.genero = genero;
+            this.formato = formato;
+            this.capa = capa;
+            this.idioma = idioma;
 
         }
     }
