@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Revisão Vetores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f695715c0f99ff315f416593a2961e87fc96e84")]
 [assembly: System.Reflection.AssemblyProductAttribute("Revisão Vetores")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Revisão Vetores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
