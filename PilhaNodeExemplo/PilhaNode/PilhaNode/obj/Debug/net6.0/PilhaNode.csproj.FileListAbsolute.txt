@@ -1,0 +1,29 @@
+H:\Documentos\Senac\Aulas\Projetos VS\PilhaNode\PilhaNode\bin\Debug\net6.0\PilhaNode.exe
+H:\Documentos\Senac\Aulas\Projetos VS\PilhaNode\PilhaNode\bin\Debug\net6.0\PilhaNode.deps.json
+H:\Documentos\Senac\Aulas\Projetos VS\PilhaNode\PilhaNode\bin\Debug\net6.0\PilhaNode.runtimeconfig.json
+H:\Documentos\Senac\Aulas\Projetos VS\PilhaNode\PilhaNode\bin\Debug\net6.0\PilhaNode.dll
+H:\Documentos\Senac\Aulas\Projetos VS\PilhaNode\PilhaNode\bin\Debug\net6.0\PilhaNode.pdb
+H:\Documentos\Senac\Aulas\Projetos VS\PilhaNode\PilhaNode\obj\Debug\net6.0\PilhaNode.csproj.AssemblyReference.cache
+H:\Documentos\Senac\Aulas\Projetos VS\PilhaNode\PilhaNode\obj\Debug\net6.0\PilhaNode.GeneratedMSBuildEditorConfig.editorconfig
+H:\Documentos\Senac\Aulas\Projetos VS\PilhaNode\PilhaNode\obj\Debug\net6.0\PilhaNode.AssemblyInfoInputs.cache
+H:\Documentos\Senac\Aulas\Projetos VS\PilhaNode\PilhaNode\obj\Debug\net6.0\PilhaNode.AssemblyInfo.cs
+H:\Documentos\Senac\Aulas\Projetos VS\PilhaNode\PilhaNode\obj\Debug\net6.0\PilhaNode.csproj.CoreCompileInputs.cache
+H:\Documentos\Senac\Aulas\Projetos VS\PilhaNode\PilhaNode\obj\Debug\net6.0\PilhaNode.dll
+H:\Documentos\Senac\Aulas\Projetos VS\PilhaNode\PilhaNode\obj\Debug\net6.0\refint\PilhaNode.dll
+H:\Documentos\Senac\Aulas\Projetos VS\PilhaNode\PilhaNode\obj\Debug\net6.0\PilhaNode.pdb
+H:\Documentos\Senac\Aulas\Projetos VS\PilhaNode\PilhaNode\obj\Debug\net6.0\PilhaNode.genruntimeconfig.cache
+H:\Documentos\Senac\Aulas\Projetos VS\PilhaNode\PilhaNode\obj\Debug\net6.0\ref\PilhaNode.dll
+C:\Users\alexandre.svasconcel\source\repos\PilhaNode\PilhaNode\PilhaNode\bin\Debug\net6.0\PilhaNode.exe
+C:\Users\alexandre.svasconcel\source\repos\PilhaNode\PilhaNode\PilhaNode\bin\Debug\net6.0\PilhaNode.deps.json
+C:\Users\alexandre.svasconcel\source\repos\PilhaNode\PilhaNode\PilhaNode\bin\Debug\net6.0\PilhaNode.runtimeconfig.json
+C:\Users\alexandre.svasconcel\source\repos\PilhaNode\PilhaNode\PilhaNode\bin\Debug\net6.0\PilhaNode.dll
+C:\Users\alexandre.svasconcel\source\repos\PilhaNode\PilhaNode\PilhaNode\bin\Debug\net6.0\PilhaNode.pdb
+C:\Users\alexandre.svasconcel\source\repos\PilhaNode\PilhaNode\PilhaNode\obj\Debug\net6.0\PilhaNode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexandre.svasconcel\source\repos\PilhaNode\PilhaNode\PilhaNode\obj\Debug\net6.0\PilhaNode.AssemblyInfoInputs.cache
+C:\Users\alexandre.svasconcel\source\repos\PilhaNode\PilhaNode\PilhaNode\obj\Debug\net6.0\PilhaNode.AssemblyInfo.cs
+C:\Users\alexandre.svasconcel\source\repos\PilhaNode\PilhaNode\PilhaNode\obj\Debug\net6.0\PilhaNode.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.svasconcel\source\repos\PilhaNode\PilhaNode\PilhaNode\obj\Debug\net6.0\PilhaNode.dll
+C:\Users\alexandre.svasconcel\source\repos\PilhaNode\PilhaNode\PilhaNode\obj\Debug\net6.0\refint\PilhaNode.dll
+C:\Users\alexandre.svasconcel\source\repos\PilhaNode\PilhaNode\PilhaNode\obj\Debug\net6.0\PilhaNode.pdb
+C:\Users\alexandre.svasconcel\source\repos\PilhaNode\PilhaNode\PilhaNode\obj\Debug\net6.0\PilhaNode.genruntimeconfig.cache
+C:\Users\alexandre.svasconcel\source\repos\PilhaNode\PilhaNode\PilhaNode\obj\Debug\net6.0\ref\PilhaNode.dll
