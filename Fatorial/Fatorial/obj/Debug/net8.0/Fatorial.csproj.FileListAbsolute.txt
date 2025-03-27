@@ -1,0 +1,14 @@
+C:\Users\murilo.sseraphim\source\repos\Fatorial\Fatorial\bin\Debug\net8.0\Fatorial.exe
+C:\Users\murilo.sseraphim\source\repos\Fatorial\Fatorial\bin\Debug\net8.0\Fatorial.deps.json
+C:\Users\murilo.sseraphim\source\repos\Fatorial\Fatorial\bin\Debug\net8.0\Fatorial.runtimeconfig.json
+C:\Users\murilo.sseraphim\source\repos\Fatorial\Fatorial\bin\Debug\net8.0\Fatorial.dll
+C:\Users\murilo.sseraphim\source\repos\Fatorial\Fatorial\bin\Debug\net8.0\Fatorial.pdb
+C:\Users\murilo.sseraphim\source\repos\Fatorial\Fatorial\obj\Debug\net8.0\Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murilo.sseraphim\source\repos\Fatorial\Fatorial\obj\Debug\net8.0\Fatorial.AssemblyInfoInputs.cache
+C:\Users\murilo.sseraphim\source\repos\Fatorial\Fatorial\obj\Debug\net8.0\Fatorial.AssemblyInfo.cs
+C:\Users\murilo.sseraphim\source\repos\Fatorial\Fatorial\obj\Debug\net8.0\Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\murilo.sseraphim\source\repos\Fatorial\Fatorial\obj\Debug\net8.0\Fatorial.dll
+C:\Users\murilo.sseraphim\source\repos\Fatorial\Fatorial\obj\Debug\net8.0\refint\Fatorial.dll
+C:\Users\murilo.sseraphim\source\repos\Fatorial\Fatorial\obj\Debug\net8.0\Fatorial.pdb
+C:\Users\murilo.sseraphim\source\repos\Fatorial\Fatorial\obj\Debug\net8.0\Fatorial.genruntimeconfig.cache
+C:\Users\murilo.sseraphim\source\repos\Fatorial\Fatorial\obj\Debug\net8.0\ref\Fatorial.dll
