@@ -1,0 +1,15 @@
+E:\Documents\GitHub\Aula-de-programacao\Recursividade\Recursividade\obj\Debug\net8.0\Recursividade.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\GitHub\Aula-de-programacao\Recursividade\Recursividade\obj\Debug\net8.0\Recursividade.AssemblyInfoInputs.cache
+E:\Documents\GitHub\Aula-de-programacao\Recursividade\Recursividade\obj\Debug\net8.0\Recursividade.AssemblyInfo.cs
+E:\Documents\GitHub\Aula-de-programacao\Recursividade\Recursividade\obj\Debug\net8.0\Recursividade.csproj.CoreCompileInputs.cache
+E:\Documents\GitHub\Aula-de-programacao\Recursividade\Recursividade\obj\Debug\net8.0\Recursividade.sourcelink.json
+E:\Documents\GitHub\Aula-de-programacao\Recursividade\Recursividade\bin\Debug\net8.0\Recursividade.exe
+E:\Documents\GitHub\Aula-de-programacao\Recursividade\Recursividade\bin\Debug\net8.0\Recursividade.deps.json
+E:\Documents\GitHub\Aula-de-programacao\Recursividade\Recursividade\bin\Debug\net8.0\Recursividade.runtimeconfig.json
+E:\Documents\GitHub\Aula-de-programacao\Recursividade\Recursividade\bin\Debug\net8.0\Recursividade.dll
+E:\Documents\GitHub\Aula-de-programacao\Recursividade\Recursividade\bin\Debug\net8.0\Recursividade.pdb
+E:\Documents\GitHub\Aula-de-programacao\Recursividade\Recursividade\obj\Debug\net8.0\Recursividade.dll
+E:\Documents\GitHub\Aula-de-programacao\Recursividade\Recursividade\obj\Debug\net8.0\refint\Recursividade.dll
+E:\Documents\GitHub\Aula-de-programacao\Recursividade\Recursividade\obj\Debug\net8.0\Recursividade.pdb
+E:\Documents\GitHub\Aula-de-programacao\Recursividade\Recursividade\obj\Debug\net8.0\Recursividade.genruntimeconfig.cache
+E:\Documents\GitHub\Aula-de-programacao\Recursividade\Recursividade\obj\Debug\net8.0\ref\Recursividade.dll
