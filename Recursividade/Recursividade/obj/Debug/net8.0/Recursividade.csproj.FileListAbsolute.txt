@@ -13,3 +13,17 @@ E:\Documents\GitHub\Aula-de-programacao\Recursividade\Recursividade\obj\Debug\ne
 E:\Documents\GitHub\Aula-de-programacao\Recursividade\Recursividade\obj\Debug\net8.0\Recursividade.pdb
 E:\Documents\GitHub\Aula-de-programacao\Recursividade\Recursividade\obj\Debug\net8.0\Recursividade.genruntimeconfig.cache
 E:\Documents\GitHub\Aula-de-programacao\Recursividade\Recursividade\obj\Debug\net8.0\ref\Recursividade.dll
+C:\Users\murilo.sseraphim\source\repos\Recursividade\Recursividade\bin\Debug\net8.0\Recursividade.exe
+C:\Users\murilo.sseraphim\source\repos\Recursividade\Recursividade\bin\Debug\net8.0\Recursividade.deps.json
+C:\Users\murilo.sseraphim\source\repos\Recursividade\Recursividade\bin\Debug\net8.0\Recursividade.runtimeconfig.json
+C:\Users\murilo.sseraphim\source\repos\Recursividade\Recursividade\bin\Debug\net8.0\Recursividade.dll
+C:\Users\murilo.sseraphim\source\repos\Recursividade\Recursividade\bin\Debug\net8.0\Recursividade.pdb
+C:\Users\murilo.sseraphim\source\repos\Recursividade\Recursividade\obj\Debug\net8.0\Recursividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murilo.sseraphim\source\repos\Recursividade\Recursividade\obj\Debug\net8.0\Recursividade.AssemblyInfoInputs.cache
+C:\Users\murilo.sseraphim\source\repos\Recursividade\Recursividade\obj\Debug\net8.0\Recursividade.AssemblyInfo.cs
+C:\Users\murilo.sseraphim\source\repos\Recursividade\Recursividade\obj\Debug\net8.0\Recursividade.csproj.CoreCompileInputs.cache
+C:\Users\murilo.sseraphim\source\repos\Recursividade\Recursividade\obj\Debug\net8.0\Recursividade.dll
+C:\Users\murilo.sseraphim\source\repos\Recursividade\Recursividade\obj\Debug\net8.0\refint\Recursividade.dll
+C:\Users\murilo.sseraphim\source\repos\Recursividade\Recursividade\obj\Debug\net8.0\Recursividade.pdb
+C:\Users\murilo.sseraphim\source\repos\Recursividade\Recursividade\obj\Debug\net8.0\Recursividade.genruntimeconfig.cache
+C:\Users\murilo.sseraphim\source\repos\Recursividade\Recursividade\obj\Debug\net8.0\ref\Recursividade.dll
